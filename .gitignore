@@ -1,0 +1,6 @@
+#Comment
+.DS_Store
+secret.txt
+
+*.doc
+#all files with that ending
